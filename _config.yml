@@ -7,3 +7,7 @@ go install github.com/rose-pine/rose-pine-bloom@latest
 # Arch Linux (community AUR)
 yay -S rose-pine-bloom
 
+# template.yaml
+name: $name
+background: $base
+foreground: $rose
