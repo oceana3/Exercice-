@@ -13,7 +13,7 @@ Entre eux, l’amour a le goût d’une rédemption qui guérit autant qu’elle
 
 Trigger warning !!  
 
-Pour l'acheter : (https://www.amazon.fr/gp/product/B0GDD56F94?ie=UTF8&tag=cnd-anon-new-21&linkCode=xm2&camp=1642&creative=6746&creativeASIN=B0GDD56F94)
+Pour l'acheter : [Amazon](https://www.amazon.fr/gp/product/B0GDD56F94?ie=UTF8&tag=cnd-anon-new-21&linkCode=xm2&camp=1642&creative=6746&creativeASIN=B0GDD56F94)
 
 
 [ link to my introduction](introduction)
