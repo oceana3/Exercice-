@@ -4,6 +4,7 @@ Bienvenue dans mon bookclub! Fan de romance et de fantasy, je vous partage mes l
 ## Septembre 🌤️
 
 En ce moment, je lis L'héritier ( les yakuzas, #2) 
+
 ![imag](images.jpeg)
 
  Ils ont tout perdu… sauf l’espoir de se retrouver.
