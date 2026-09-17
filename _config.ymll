@@ -1,3 +1,9 @@
-<p align="center">
-  <img src="https://vercel.app" alt="Banner" />
-</p>
+# Goblin (zero-dependency)
+curl -sf http://goblin.run/github.com/rose-pine/rose-pine-bloom | OUT=bloom sh
+
+# Go
+go install github.com/rose-pine/rose-pine-bloom@latest
+
+# Arch Linux (community AUR)
+yay -S rose-pine-bloom
+
